@@ -1,9 +1,9 @@
 const slackUserName = "Kato Mahad"
-const slackDisplayImage = ""
+const slackDisplayImage = "https://ca.slack-edge.com/T05FFAA91JP-U05RYRH1FH7-6d00d18ebc45-512"
 const currentDayOfTheWeek = getCurrentDayOfTheWeek()
 const currentUTCTime = getCurrentUTCTime()
 const myTrack = "Frontend"
-const githubURL = "githubURL"
+const githubURL = "https://github.com/mnmkato/Stage1/"
 
 const slackUserName_h1 = document.querySelector('[data-testid="slackUserName"]')
 slackUserName_h1.textContent= slackUserName
